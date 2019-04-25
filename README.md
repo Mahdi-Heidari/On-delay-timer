@@ -1,4 +1,4 @@
-# Perform multiple functions using an On-delay timer.
+# Perform multiple functions using an on-delay timer.
 
 Write a program including 6 input instructions performing besed on the following rules:
 
